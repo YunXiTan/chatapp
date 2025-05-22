@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891923254984",
+    "project_id": "messaging-app-4670c",
+    "storage_bucket": "messaging-app-4670c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891923254984:android:d25972357ac3e99ba99ffd",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvp_1_D0EECZWTxNWaK7Tvo0FHgFYOMtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
